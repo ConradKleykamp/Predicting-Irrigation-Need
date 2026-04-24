@@ -12,7 +12,8 @@
       "Bash(/Users/conradkleykamp/opt/anaconda3/envs/irrigation-need/bin/conda install *)",
       "Bash(/Users/conradkleykamp/opt/anaconda3/envs/irrigation-need/bin/python *)",
       "Bash(/Users/conradkleykamp/opt/anaconda3/bin/python *)",
-      "Bash(/Users/conradkleykamp/opt/anaconda3/bin/pip install *)"
+      "Bash(/Users/conradkleykamp/opt/anaconda3/bin/pip install *)",
+      "Bash(jupyter nbconvert *)"
     ]
   }
 }
