@@ -13,7 +13,11 @@
       "Bash(/Users/conradkleykamp/opt/anaconda3/envs/irrigation-need/bin/python *)",
       "Bash(/Users/conradkleykamp/opt/anaconda3/bin/python *)",
       "Bash(/Users/conradkleykamp/opt/anaconda3/bin/pip install *)",
-      "Bash(jupyter nbconvert *)"
+      "Bash(jupyter nbconvert *)",
+      "Bash(python -c \"import pandas\")",
+      "Bash(conda env *)",
+      "Read(//Users/conradkleykamp/anaconda3/**)",
+      "Read(//Users/conradkleykamp/miniconda3/**)"
     ]
   }
 }
